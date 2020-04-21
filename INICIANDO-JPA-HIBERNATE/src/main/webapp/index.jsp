@@ -54,7 +54,7 @@
         <th>OPCIONES</th>
       </thead>
       <tbody>
-      	<h1>hola</h1>
+      	
       </tbody>
 
      </table>
